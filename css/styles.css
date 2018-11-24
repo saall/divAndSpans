@@ -1,4 +1,15 @@
 .important{
-  background-color: blue;
+  /* background-color: blue; */
   font-style: italic;
+}
+
+.notImportant{
+  /* font-size: 54px; */
+  background-color: yellow;
+}
+
+#blue{
+
+  color: blue;
+  font-weight: bold;
 }
